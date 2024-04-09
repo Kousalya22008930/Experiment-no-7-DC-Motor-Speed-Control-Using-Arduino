@@ -58,14 +58,10 @@ void loop()
 
 
 ### GRAPH AND TABULATION 
-![image](https://github.com/vasanthkumarch/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/36288975/739cc470-48c8-4873-a730-6319b4afc602)
-
+![image](https://github.com/Kousalya22008930/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/119389108/759e962f-a395-4c97-80fc-46e4b033b72a)
 
 
 ![image](https://github.com/vasanthkumarch/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/36288975/07e9b28e-9a5b-47bd-a023-3c27fe00fb2b)
-
-
-![image](https://github.com/vasanthkumarch/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/36288975/67ed339f-8011-4acc-b793-e5d4930639c7)
 
 
 
